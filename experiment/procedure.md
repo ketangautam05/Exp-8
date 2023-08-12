@@ -27,7 +27,7 @@
 
 **Calcuation**
 
-<img src="images/formula.jpeg" alt="Formula FFA">
+<img src="experiment/images/formula.jpeg" alt="Formula FFA">
 
   Where, <br>
         b= Blank titre value <br>
