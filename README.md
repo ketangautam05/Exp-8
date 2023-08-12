@@ -3,10 +3,10 @@
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 
-<b>Discipline | <b>Computer Science
+<b>Discipline | <b>Chemistry
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Enter the correct experiment number) Name of the experiment
+<b> Lab | <b> Chemistry Lab
+<b> Experiment|     <b> 8. Determine The Saponification Value Of Oil.
 
 <h5> About the Lab (Objective) : </h5>
 
