@@ -88,30 +88,66 @@
 /////////////// Write the MCQ below in the exactly same described format ///////////////
 
 
-  const myQuestions = [
-    {
-      question: "This is question 1?",  ///// Write the question inside double quotes
-      answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+ const myQuestions = [
+      {
+        question: " Saponification is hydrolysis ____________",  ///// Write the question inside double quotes
+        answers: {
+          a: "By alkalis",                  ///// Write the option 1 inside double quotes
+          b: "By salts",                  ///// Write the option 2 inside double quotes
+          c: "By acids",                  ///// Write the option 3 inside double quotes
+          d: "Lipases"                   ///// Write the option 4 inside double quotes
+        },
+        correctAnswer: "d"                ///// Write the correct option inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
-    },
-
-    {
-     question: "This is question 2?",  ///// Write the question inside double quotes
-      answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
-
+  
+      {
+       question: "Rancidity of oils/fats is because of",  ///// Write the question inside double quotes
+        answers: {
+          a: "Lipolysis",                  ///// Write the option 1 inside double quotes
+          b: "Oxidation ",                  ///// Write the option 2 inside double quotes
+          c: "Thermolysis",                  ///// Write the option 3 inside double quotes
+          d: "All of the above"                   ///// Write the option 4 inside double quotes
+        },
+        correctAnswer: "d"                ///// Write the correct option inside double quotes
+      },                                  ///// To add more questions, copy the section below 
+                  
+      
+      {
+        question: "Which of the following is not saponifiable? ",  ///// Write the question inside double quotes
+         answers: {
+           a: "Ground nut oils",                  ///// Write the option 1 inside double quotes
+           b: "Mineral oils",                  ///// Write the option 2 inside double quotes
+           c: " Castor oil",                  ///// Write the option 3 inside double quotes
+           d: "Coconut oil"                   ///// Write the option 4 inside double quotes
+         },
+         correctAnswer: "b"                ///// Write the correct option inside double quotes
+       },                                  ///// To add more questions, copy the section below 
+                   
+    
+       {
+        question: "The mixtures derived from the diverse fatty acids are _________",  ///// Write the question inside double quotes
+         answers: {
+           a: "Glycerides",                  ///// Write the option 1 inside double quotes
+           b: "Polyglycerides",                  ///// Write the option 2 inside double quotes
+           c: "Triglycerides",                  ///// Write the option 3 inside double quotes
+           d: "Bi glycerides "                   ///// Write the option 4 inside double quotes
+         },
+         correctAnswer: "c"                ///// Write the correct option inside double quotes
+       },                                  ///// To add more questions, copy the section below 
+                   
+       
+       {
+        question: "Which of the following is not a suitable solvent for oils and fats?",  ///// Write the question inside double quotes
+         answers: {
+           a: "CHCl3",                  ///// Write the option 1 inside double quotes
+           b: "Water",                  ///// Write the option 2 inside double quotes
+           c: "Hexane",                  ///// Write the option 3 inside double quotes
+           d: "CCl4"                   ///// Write the option 4 inside double quotes
+         },
+         correctAnswer: "b"                ///// Write the correct option inside double quotes
+       },                                  ///// To add more questions, copy the section below 
+                   ///// this line
+  
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
