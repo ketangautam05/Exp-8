@@ -16,11 +16,11 @@ The saponification value of oil and biodiesel were estimated by the ASTM D1962 t
 
 <h5> Target Audience : </h5>
 
-Type here: the target audience
+The saponification value of fats and oils is one of the most common quality indices, reflecting the mean molecular weight of the constituting triacylglycerols. Proton nuclear magnetic resonance (1H-NMR) spectra of fats and oils display specific resonances for the protons from the structural patterns of the triacylglycerols (i.e., the glycerol backbone), methylene (-CH2-) groups, double bonds (-CH=CH-) and the terminal methyl (-CH3) group from the three fatty acyl chains. Consequently, chemometric equations based on the integral values of the 1H-NMR resonances allow for the calculation of the mean molecular weight of triacylglycerol species, leading to the determination of the number of moles of triacylglycerol species per 1 g of fat and eventually to the calculation of the saponification value (SV), expressed as mg KOH/g of fat. The algorithm was verified on a series of binary mixtures of tributyrin (TB) and vegetable oils (i.e., soybean and rapeseed oils) in various ratios, ensuring a wide range of SV. Compared to the conventional technique for SV determination (ISO 3657:2013) based on titration, the obtained 1H-NMR-based saponification values differed by a mean percent deviation of 3%, suggesting the new method is a convenient and rapid alternate approach. Moreover, compared to other reported methods of determining the SV from spectroscopic data, this method is not based on regression equations and, consequently, does not require calibration from a database, as the SV is computed directly and independently from the 1H-NMR spectrum of a given oil/fat sample.
 
 <h5> Course Alignment : </h5>
 
-Type here: courses aligned
+B.Tech , M.Sc ,B.Sc .
 
 <h5> Universities Mapped : </h5>
 
