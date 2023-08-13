@@ -45,7 +45,7 @@ Type here: universities mapped
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Full name | Faculty | Dept Name | Bundelkand University , Jhansi  | abc@example.com
-2 | Durgesh Tiwari | Student | Mathsmatics and Computer Applications | Bundelkand University , Jhansi |durgesh83034@gmail.com
+2 | Durgesh Tiwari | Student | Mathematics and Computer Applications | Bundelkand University , Jhansi |durgesh83034@gmail.com
 3 | Full name | Student | Dept Name | Bundelkand University , Jhansi  |abc@example.com
 4 | Full name | Student | Dept Name | Bundelkand University , Jhansi  |abc@example.com
 5 | Full name | Student | Dept Name | Bundelkand University , Jhansi  |abc@example.com
